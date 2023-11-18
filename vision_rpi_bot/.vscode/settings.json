@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/anfil/test1_ws/install/vision_rpi_bot/lib/python3.10/site-packages",
+        "/home/anfil/new1_ws/install/vision_rpi_bot/lib/python3.10/site-packages",
+        "/home/anfil/test_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/anfil/test1_ws/install/vision_rpi_bot/lib/python3.10/site-packages",
+        "/home/anfil/new1_ws/install/vision_rpi_bot/lib/python3.10/site-packages",
+        "/home/anfil/test_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
